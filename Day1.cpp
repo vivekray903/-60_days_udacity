@@ -1,8 +1,8 @@
 //Function to check whether String is Valid Number or Not
 bool isNumber(string str) 
     {
-        int o=0,e=0,count=0,d=0;
-        int n=str.length();
+        int o=0,e=0,count=0,d=0;//Variable 'o' Operator,'e' Exponential,'d' Decimal for Counting their occurances 
+        int n=str.length();//Length of String
         char c;
         for(int i=0;i<n;i++)
         {   
@@ -11,7 +11,7 @@ bool isNumber(string str)
             {
                   count++; 
             }
-            else if(c=='e'&&count>0&&(isdigit(str[i+1])==1||str[i+1]=='+'||str[i+1]=='-')&&e==0)//e
+            else if(c=='e'&&count>0&&(isdigit(str[i+1])==1||str[i+1]=='+'||str[i+1]=='-')&&e==0)
             {
                 e++;
             }
