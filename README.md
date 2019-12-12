@@ -69,3 +69,27 @@ Day 1:Hardest Leetcode Program
 <br />
 <br />--A Leetcode Program
 
+<br />Day 3:Defranged IP
+<br />
+<br />Given a valid (IPv4) IP address, return a defanged version of that IP address.
+<br />
+<br />A defanged IP address replaces every period "." with "[.]".
+<br />
+ <br />
+<br />
+<br />Example 1:
+<br />
+<br />Input: address = "1.1.1.1"
+<br />Output: "1[.]1[.]1[.]1"
+<br />
+<br />Example 2:
+<br />
+<br />Input: address = "255.100.50.0"
+<br />Output: "255[.]100[.]50[.]0"
+<br />
+<br />
+<br />
+<br />Constraints:
+<br />
+<br />    The given address is a valid IPv4 address.
+<br />
