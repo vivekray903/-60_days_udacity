@@ -93,3 +93,72 @@ Day 1:Hardest Leetcode Program
 <br />
 <br />    The given address is a valid IPv4 address.
 <br />
+<br />Day 4:Calculator in Shell Script
+<br />
+<br />Output:
+<br />
+<br />Enter the 1st number:12
+<br />Enter the 2nd number:13
+<br />Operations:
+<br />1.Addition
+<br />2.Subtraction
+<br />3.Division
+<br />4.Multiplication
+<br />5.Remainder
+<br />Enter an option:1
+<br />Sum:  25
+<br />Want to continue? 1.Yes (any key to exit) 
+<br />1
+<br />Enter the 1st number:12
+<br />Enter the 2nd number:13
+<br />Operations:
+<br />1.Addition
+<br />2.Subtraction
+<br />3.Division
+<br />4.Multiplication
+<br />5.Remainder
+<br />Enter an option:
+<br />2
+<br />Result:  -1
+<br />Want to continue? 1.Yes (any key to exit) 
+<br />1
+<br />Enter the 1st number:14
+<br />Enter the 2nd number:15
+<br />Operations:
+<br />1.Addition
+<br />2.Subtraction
+<br />3.Division
+<br />4.Multiplication
+<br />5.Remainder
+<br />Enter an option:
+<br />3
+<br />Result:  0
+<br />Want to continue? 1.Yes (any key to exit) 
+<br />1
+<br />Enter the 1st number:14
+<br />Enter the 2nd number:13
+<br />Operations:
+<br />1.Addition
+<br />2.Subtraction
+<br />3.Division
+<br />4.Multiplication
+<br />5.Remainder
+<br />Enter an option:
+<br />4
+<br />Result:  182
+<br />Want to continue? 1.Yes (any key to exit) 
+<br />1
+<br />Enter the 1st number:12
+<br />Enter the 2nd number:4
+<br />Operations:
+<br />1.Addition
+<br />2.Subtraction
+<br />3.Division
+<br />4.Multiplication
+<br />5.Remainder
+<br />Enter an option:
+<br />5
+<br />Result:  0
+<br />Want to continue? 1.Yes (any key to exit) 
+<br />0
+<br />
