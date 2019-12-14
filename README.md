@@ -158,7 +158,10 @@ Day 1:Hardest Leetcode Program
 <br />5.Remainder
 <br />Enter an option:
 <br />5
+<br />
 <br />Result:  0
 <br />Want to continue? 1.Yes (any key to exit) 
 <br />0
-<br />
+<br />Day 5:Shell Script to install softwares on Ubuntu OS
+<br />Program such as VLC,Slack,Chromium.(More can be added)
+
